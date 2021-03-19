@@ -1,0 +1,54 @@
+# - title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
+#   image: Pub_nemat1.png
+#   description:
+#     We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
+#   authors:
+#     T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+#   link:
+#     url: http://www.sciencemag.org/content/327/5962/181
+#     display: Science 327, 181 (2010)
+#   highlight: 1
+#   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+#   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: "A control theory approach to optimal pandemic mitigation"
+  image: prakhar_plos_2021.png
+  description: 'In the framework of homogeneous susceptible-infected-recovered (SIR) models, we use a control theory approach to identify optimal pandemic mitigation strategies. We derive rather general conditions for reaching herd immunity while minimizing the costs incurred by the introduction of societal control measures (such as closing schools, social distancing, lockdowns, etc.), under the constraint that the infected fraction of the population does never exceed a certain maximum corresponding to public health system capacity. Optimality is derived and verified by variational and numerical methods for a number of model cost functions. The effects of immune response decay after recovery are taken into account and discussed in terms of the feasibility of strategies based on herd immunity.'
+  authors: Godara, P.; Herminghaus, S.; Heidemann, K. M.
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247445
+    display:   PLoS One 16 (2), e0247445 (2021)
+  highlight: 1
+
+- title: "Topology determines force distributions in one-dimensional random spring networks"
+  description: 'Networks of elastic fibers are ubiquitous in biological systems and often provide mechanical stability to cells and tissues. Fiber-reinforced materials are also common in technology. An important characteristic of such materials is their resistance to failure under load. Rupture occurs when fibers break under excessive force and when that failure propagates. Therefore, it is crucial to understand force distributions. Force distributions within such networks are typically highly inhomogeneous and are not well understood. Here we construct a simple one-dimensional model system with periodic boundary conditions by randomly placing linear springs on a circle. We consider ensembles of such networks that consist of N nodes and have an average degree of connectivity z but vary in topology. Using a graph-theoretical approach that accounts for the full topology of each network in the ensemble, we show that, surprisingly, the force distributions can be fully characterized in terms of the parameters (N,z). Despite the universal properties of such (N,z) ensembles, our analysis further reveals that a classical mean-field approach fails to capture force distributions correctly. We demonstrate that network topology is a crucial determinant of force distributions in elastic spring networks.'
+  authors: Heidemann, K. M.; Sageman-Furnas, A. O.; Sharma, A.; Rehfeldt, F.; Schmidt, C. F.; Wardetzky, M.
+  link:
+    url: https://doi.org/10.1103/PhysRevE.97.022306
+    display:  Physical Review E 97 (2), 022306 (2018)
+  highlight: 0
+
+- title: "Topology Counts: Force Distributions in Circular Spring Networks"
+  image: knut_prl_2018.png
+  description: 'Filamentous polymer networks govern the mechanical properties of many biological materials. Force distributions within these networks are typically highly inhomogeneous, and, although the importance of force distributions for structural properties is well recognized, they are far from being understood quantitatively. Using a combination of probabilistic and graph-theoretical techniques, we derive force distributions in a model system consisting of ensembles of random linear spring networks on a circle. We show that characteristic quantities, such as the mean and variance of the force supported by individual springs, can be derived explicitly in terms of only two parameters: (i) average connectivity and (ii) number of nodes. Our analysis shows that a classical mean-field approach fails to capture these characteristic quantities correctly. In contrast, we demonstrate that network topology is a crucial determinant of force distributions in an elastic spring network. Our results for 1D linear spring networks readily generalize to arbitrary dimensions.'
+  authors: Heidemann, K. M.; Sageman-Furnas, A. O.; Sharma, A.; Rehfeldt, F.; Schmidt, C. F.; Wardetzky, M.
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.120.068001
+    display:  Physical Review Letters 120 (6), 068001 (2018)
+  highlight: 1
+
+- title: "Elasticity of 3D networks with rigid filaments and compliant crosslinks"
+  description: Disordered filamentous networks with compliant crosslinks exhibit a low linear elastic shear modulus at small strains, but stiffen dramatically at high strains. Experiments have shown that the elastic modulus can increase by up to three orders of magnitude while the networks withstand relatively large stresses without rupturing. Here, we perform an analytical and numerical study on model networks in three dimensions. Our model consists of a collection of randomly oriented rigid filaments connected by flexible crosslinks that are modeled as wormlike chains. Due to zero probability of filament intersection in three dimensions, our model networks are by construction prestressed in terms of initial tension in the crosslinks. We demonstrate how the linear elastic modulus can be related to the prestress in these networks. Under the assumption of affine deformations in the limit of infinite crosslink density, we show analytically that the nonlinear elastic regime in 1- and 2-dimensional networks is characterized by power-law scaling of the elastic modulus with the stress. In contrast, 3-dimensional networks show an exponential dependence of the modulus on stress. Independent of dimensionality, if the crosslink density is finite, we show that the only persistent scaling exponent is that of the single wormlike chain. We further show that there is no qualitative change in the stiffening behavior of filamentous networks even if the filaments are bending-compliant. Consequently, unlike suggested in prior work, the model system studied here cannot provide an explanation for the experimentally observed linear scaling of the modulus with the stress in filamentous networks.
+  authors: Heidemann, K. M.; Sharma, A.; Rehfeldt, F.; Schmidt, C. F.; Wardetzky, M.
+  link:
+    url: http://pubs.rsc.org/en/Content/ArticleLanding/2014/SM/C4SM01789G
+    display:  Soft Matter 11 (2), pp. 343 - 354 (2015)
+  highlight: 0
+
+- title: "Elastic response of filamentous networks with compliant crosslinks"
+  description: Experiments have shown that elasticity of disordered filamentous networks with compliant crosslinks is very different from networks with rigid crosslinks. Here, we model and analyze filamentous networks as a collection of randomly oriented rigid filaments connected to each other by flexible crosslinks that are modeled as wormlike chains. For relatively large extensions we allow for enthalpic stretching of crosslink backbones. We show that for sufficiently high crosslink density, the network linear elastic response is affine on the scale of the filaments’ length. The nonlinear regime can become highly nonaffine and is characterized by a divergence of the elastic modulus at finite strain. In contrast to the prior predictions, we do not find an asymptotic regime in which the differential elastic modulus scales linearly with the stress, although an approximate linear dependence can be seen in a transition from entropic to enthalpic regimes. We discuss our results in light of recent experiments.
+  authors: Sharma, A.; Sheinman, M.; Heidemann, K. M.; Mackintosh, F. C.
+  link:
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.052705
+    display: Physical Review E 88 (5), 052705 (2013)
+  highlight: 0

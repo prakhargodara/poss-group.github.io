@@ -1,0 +1,99 @@
+- name: Dr. Knut Heidemann 
+  photo: knut_heidemann.jpg
+  info: Group Leader
+  email: knut.heidemann@ds.mpg.de
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Joao Pinheiro Neto
+  photo: joao_pinheiro_neto.jpg
+  info: Postdoctoral Researcher
+  email: joaopn@ds.mpg.de
+  number_educ: 2
+  education1: PhD University of Göttingen, 2021
+  education2: MSc University of Campinas, 2014
+  education3: 
+  education4: 
+  education5: 
+
+- name: Dr. Steffen Mühle 
+  photo: steffen_muhle.jpg
+  info: Postdoctoral Researcher
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Prakhar Godara
+  photo: prakhar_godara.jpg
+  info: PhD Student
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Puneet Sharma 
+  photo: puneet_sharma.jpg
+  info: PhD Student
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+
+- name: Riccardo Carlucci
+  photo: riccardo_carlucci.jpg
+  info: PhD Student
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: David Bantje
+  photo: david_bantje.jpg
+  info: MSc Student
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Helge Heuer
+  photo: helge_heuer.jpg
+  info: MSc Student
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Tilman Alemán 
+  photo: tilman_aleman.png
+  info: Research Assistant
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
