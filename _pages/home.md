@@ -6,11 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-This newly established group studies systems that involve a 'human component'. We try to find 'the right' tools to understand social systems on various scales – from minimal model systems showing collective behavior (e.g. emergence of cooperation) to societal transformations (e.g. towards sustainable mobility).
+We study systems that involve a 'human component'. We try to find the right tools to understand social systems on various scales – from minimal model systems showing collective behavior to societal transformations.
 
 Methodologies include:
 
-- computer simulations (e.g. agent-based)
+- computer simulations
 - analytical theory
 - statistical physics
 - network science
@@ -19,7 +19,9 @@ Methodologies include:
 Topics include:
 
 - sustainable mobility
+- social networks
 - theory of change (institutions, values, ...)
+- emergence of cooperation
 - economics & finance (e.g. sharing economy, growth paradigm)
 
 
