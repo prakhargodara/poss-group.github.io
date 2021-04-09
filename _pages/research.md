@@ -16,7 +16,7 @@ References: [[1]](https://www.sciencedirect.com/science/article/pii/S09658564173
 Our custom-made simulation framework is written in [Julia](https://docs.julialang.org/en/v1/), runs on [OpenStreetMaps](https://www.openstreetmap.org) and is under active development:
 || |
 |-|-|
-| ![](https://pad.gwdg.de/uploads/upload_c9944825fcfdd4d847a02145c15a7f3b.gif) | ![](https://pad.gwdg.de/uploads/upload_5ba304c3ae4f33e7c2ae3bc3730d9fe6.gif)
+| ![](https://pad.gwdg.de/uploads/upload_c9944825fcfdd4d847a02145c15a7f3b.gif) | ![](https://pad.gwdg.de/uploads/upload_5ba304c3ae4f33e7c2ae3bc3730d9fe6.gif) |
 
 The project ideas below are still on our todo-list and are potentially well-suited for potential Bachelor and Master thesis'.
 
