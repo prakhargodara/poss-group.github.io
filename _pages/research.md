@@ -14,8 +14,8 @@ On-demand ride-pooling services have the potential to drastically decrease urban
 References: [[1]](https://www.sciencedirect.com/science/article/pii/S0965856417316038), [[2]](https://www.pnas.org/content/114/3/462.short), [[3]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248302), [[4]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248302), [[5]](https://ieeexplore.ieee.org/abstract/document/6544843)
 
 Our custom-made simulation framework is written in [Julia](https://docs.julialang.org/en/v1/), runs on [OpenStreetMaps](https://www.openstreetmap.org) and is under active development:
-|| |
-|-|-|
+| | |
+| --- | ---- |
 | ![](https://pad.gwdg.de/uploads/upload_c9944825fcfdd4d847a02145c15a7f3b.gif) | ![](https://pad.gwdg.de/uploads/upload_5ba304c3ae4f33e7c2ae3bc3730d9fe6.gif) |
 
 The project ideas below are still on our todo-list and are potentially well-suited for potential Bachelor and Master thesis'.
