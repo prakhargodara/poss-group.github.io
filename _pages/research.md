@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Sustainable Mobility On-Demand / Ride-Pooling Dynamics
 
-On-demand ride-pooling services have the potential to drastically decrease urban traffic, mobility costs, carbon emissions and the need for owning a private car. In order to analyze and design on-demand ride-pooling dynamics, we develop and enhance analytical theories and also run numerical simulations.
+On-demand ride-pooling services have the potential to drastically decrease urban traffic, mobility costs, carbon emissions and the need for owning a private car. In order to analyze and design ride-pooling dynamics, we develop and enhance analytical theories and also run numerical simulations.
 References: [[1]](https://www.sciencedirect.com/science/article/pii/S0965856417316038), [[2]](https://www.pnas.org/content/114/3/462.short), [[3]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248302), [[4]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248302), [[5]](https://ieeexplore.ieee.org/abstract/document/6544843)
 
 Our custom-made simulation framework is written in [Julia](https://docs.julialang.org/en/v1/), runs on [OpenStreetMaps](https://www.openstreetmap.org) and is under active development. The project ideas below are still on our todo-list and are potentially well-suited for potential Bachelor and Master thesis'.
@@ -19,12 +19,12 @@ Our custom-made simulation framework is written in [Julia](https://docs.julialan
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mobility2.gif){: style="width: 500px; float: right; margin: 0px 10px"}
 
 
-**Non-uniform pickup/dropoff distributions**:Each transport request consists of two locations: the sites for pickup (stars in .gif above) and dropoff (triangles) of the respective customer (color). While we currently draw both locations from a uniform distribution on the underlying street map, it is clear that this procedure should be improved. Firstly, the two locations are not independent but the distance between them follows e.g. an inverse Gamma distribution ([[1]](https://www.sciencedirect.com/science/article/pii/S0965856417316038), [[2]](https://en.wikipedia.org/wiki/Inverse-gamma_distribution)). Secondly, in reality there may be train stations, theaters, airports etc. which present natural hotspots and should be taken into account.
+**Non-uniform pickup/dropoff distributions**: Each transport request consists of two locations: the sites for pickup (stars in .gif on the right) and dropoff (triangles) of the respective customer (color). While we currently draw both locations from a uniform distribution on the underlying street map, it is clear that this procedure should be improved. Firstly, the two locations are not independent but the distance between them follows e.g. an inverse Gamma distribution ([[1]](https://www.sciencedirect.com/science/article/pii/S0965856417316038), [[2]](https://en.wikipedia.org/wiki/Inverse-gamma_distribution)). Secondly, in reality there may be train stations, theaters, airports etc. which present natural hotspots and should be taken into account.
 
 *How does the shareability of requests change when their pickup or dropoff locations tend to coincide? 
 How much more efficiently can a system be operated when a certain amount of information/entropy is contained in the spatial distributions?*
 
-**Graph centrality**: After finishing their job by dropping of the last passenger on board, buses often become idle in remote areas. This is clearly disadvantageous as it hinders them from quickly getting to the next pickup-destination assigned to them.
+**Graph centrality**: After finishing their job by dropping off the last passenger on board, buses often become idle in remote areas. This is clearly disadvantageous as it hinders them from quickly getting to the next pickup-destination assigned to them.
 Keyword: [graph centrality](https://en.wikipedia.org/wiki/Centrality)
 
 *Given a street map (graph), can we predict which nodes are often travelled through, or most likely to be temporally close to incoming requests?
@@ -36,9 +36,9 @@ Should idle buses relocate to hotspots per default?*
 *Which options can be quickly discarded?
 How much quicker can clever heuristics make a simulation [[1]](https://arxiv.org/abs/2007.14877)?
 What's the tradeoff between computational speed and service quality?
-Can frequently travelled fastest-routes be [precalculated](https://ieeexplore.ieee.org/abstract/document/6544843) using a coarse-grained grid?*
+Can frequently travelled fastest-routes be [precalculated](https://ieeexplore.ieee.org/abstract/document/6544843) using a [coarse-grained grid](https://en.wikipedia.org/wiki/Contraction_hierarchies)?*
 
-**Rush-hour relaxation**: Given the request frequency and spatial distribution, it is possible to predict the fleet size required to serve the demand in a steady state. In reality, the demand depends on the time of the day as clearly more people require mobility in the afternoon than at 3am.
+**Rush-hour robustness**: Given the request frequency and spatial distribution, it is possible to predict the fleet size required to serve the demand in a steady state. In reality, the demand depends on the time of the day as clearly more people require mobility in the afternoon than at 3am.
 
 *Can we quantify the robustness of the system against peaks of incoming requests?
 What are good strategies to have enough capacity in peak hours, but not overly many idle buses during times of low demand?*
