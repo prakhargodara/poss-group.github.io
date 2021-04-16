@@ -50,7 +50,7 @@ What are good strategies to have enough capacity in peak hours, but not overly m
 *Is the extra efficiency worth the numerical effort?
 Is the computational problem even feasible for large systems?*
 
-### Effective curvature on street networks
+### Effective curvature of street networks
 
 Analytical theories of ride-pooling such as in [[1]](https://www.sciencedirect.com/science/article/pii/S0965856417316038) mostly approximate the traffic space as the Euclidean plane. *How can the geometry of the street network be characterized and incorporated into theories?*
 
