@@ -8,7 +8,9 @@ permalink: /research/
 
 # Research
 
-## Sustainable Mobility On-Demand / Ride-Pooling Dynamics
+## Sustainable Mobility
+
+### On-Demand / Ride-Pooling Dynamics
 
 On-demand ride-pooling services have the potential to drastically decrease urban traffic, mobility costs, carbon emissions and the need for owning a private car. In order to analyze and design ride-pooling dynamics, we develop and enhance analytical theories and also run numerical simulations.
 References: [[1]](https://www.sciencedirect.com/science/article/pii/S0965856417316038), [[2]](https://www.pnas.org/content/114/3/462.short), [[3]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248302), [[4]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.248302), [[5]](https://ieeexplore.ieee.org/abstract/document/6544843)
@@ -47,6 +49,16 @@ What are good strategies to have enough capacity in peak hours, but not overly m
 
 *Is the extra efficiency worth the numerical effort?
 Is the computational problem even feasible for large systems?*
+
+### Effective curvature on street networks
+
+Analytical theories of ride-pooling such as in [[1]](https://www.sciencedirect.com/science/article/pii/S0965856417316038) mostly approximate the traffic space as the Euclidean plane. *How can the geometry of the street network be characterized and incorporated into theories?*
+
+We are investigating whether an effective curvature can be a useful characterization. Based on trip durations obtained by routing machines like [OSRM](http://project-osrm.org/), we use an [angular defect scheme](https://www.sciencedirect.com/science/article/pii/S0898122109000480) to assign a Gaussian curvature to locations in the street network.
+
+*Using this scheme, can an effective curvature be defined consistently and in a practical manner?
+How does it behave?
+Which aspects of the street network geometry does it capture?*
 
 ## Social Networks
 
