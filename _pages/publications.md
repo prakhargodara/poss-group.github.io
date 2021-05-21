@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-(For a full list see below or go to [Google Scholar](https://scholar.google.de/citations?user=15HNWssAAAAJ&hl=en))
+(For an up-to-date list check [here](https://www.ds.mpg.de/3495112/res_heidemann_publications)).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
