@@ -8,6 +8,7 @@ permalink: /team/
 
 # Group Members
 
+For contact details visit our institute's [webpage](https://www.ds.mpg.de/3625735/res_heidemann_team).
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}

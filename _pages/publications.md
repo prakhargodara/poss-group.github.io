@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-(For an up-to-date list check [here](https://www.ds.mpg.de/3495112/res_heidemann_publications)).
+<p>For an up-to-date list check [here](https://www.ds.mpg.de/3495112/res_heidemann_publications).</p>
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
