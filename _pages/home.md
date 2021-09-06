@@ -8,6 +8,14 @@ permalink: /
 
 We study systems that involve a 'human component'. We try to find the right tools to understand social systems on various scales – from minimal model systems showing collective behavior to societal transformations.
 
+Topics include:
+
+- sustainable mobility
+- social networks
+- theory of change (institutions, values, ...)
+- emergence of cooperation
+- economics & finance (e.g. sharing economy, growth paradigm)
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval=false data-pause="hover" >
     <!-- Menu -->
@@ -23,7 +31,7 @@ We study systems that involve a 'human component'. We try to find the right tool
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_zoom_2021.jpg" width="600" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hantel.svg" width="600" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hantel.svg" width="600" height="400" alt="Slide 2" />
         </div>
 <!---
 		<div class="item">
@@ -44,7 +52,7 @@ We study systems that involve a 'human component'. We try to find the right tool
   </a>
 </div>
 
-
+<!----
 Methodologies include:
 
 - computer simulations
@@ -52,14 +60,8 @@ Methodologies include:
 - statistical physics
 - network science
 - game theory
+-->
 
-Topics include:
-
-- sustainable mobility
-- social networks
-- theory of change (institutions, values, ...)
-- emergence of cooperation
-- economics & finance (e.g. sharing economy, growth paradigm)
 
 
 
