@@ -23,7 +23,7 @@ We study systems that involve a 'human component'. We try to find the right tool
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_zoom_2021.jpg" width="600" alt="Slide 1" />
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hantel.pdf" width="600" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hantel.svg" width="600" alt="Slide 2" />
         </div>
 <!---
 		<div class="item">
