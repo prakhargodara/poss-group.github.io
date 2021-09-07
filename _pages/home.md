@@ -17,12 +17,12 @@ Topics include:
 - economics & finance (e.g. sharing economy, growth paradigm)
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval=false data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval=4500 data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -31,7 +31,13 @@ Topics include:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_zoom_2021.jpg" width="600" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hantel.svg" width="600" height="400" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hantel.svg" width="600" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/kassel.svg" width="600" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pareto.svg" width="600" alt="Slide 4" />
         </div>
 <!---
 		<div class="item">
